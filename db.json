@@ -1,0 +1,324 @@
+{
+  "genres": [
+    {
+      "id": 1,
+      "name": "action",
+      "title": "Ação"
+    },
+    {
+      "id": 2,
+      "name": "comedy",
+      "title": "Comédia"
+    },
+    {
+      "id": 3,
+      "name": "documentary",
+      "title": "Documentário"
+    },
+    {
+      "id": 4,
+      "name": "drama",
+      "title": "Drama"
+    },
+    {
+      "id": 5,
+      "name": "horror",
+      "title": "Terror"
+    },
+    {
+      "id": 6,
+      "name": "family",
+      "title": "Família"
+    }
+  ],
+  "movies": [
+    {
+      "Genre_id": 1,
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk5NjkyNzEwOV5BMl5BanBnXkFtZTcwODc5NDI1MQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "10/10"
+        }
+      ],
+      "Title": "Underdog",
+      "imdbID": "tt0467110"
+    },
+    {
+      "Genre_id": 1,
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjEwNjYyMTMtODc5Yi00NTg5LTkwMzAtZTkyOTcyNTFkMGIyXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.0/10"
+        }
+      ],
+      "Title": "Honest Thief",
+      "imdbID": "tt1838556"
+    },
+    {
+      "Genre_id": 1,
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTc4MTc3NTQ5OF5BMl5BanBnXkFtZTcwOTg0NjI4NA@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        }
+      ],
+      "Title": "Star Wars: Episode III - Revenge of the Sith",
+      "imdbID": "tt0121766"
+    },
+    {
+      "Genre_id": 1,
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        }
+      ],
+      "Title": "Deadpool",
+      "imdbID": "tt1431045"
+    },
+    {
+      "Genre_id": 2,
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzMyZDhiZDUtYWUyMi00ZDQxLWE4NDQtMWFlMjI1YjVjMjZiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.8/10"
+        }
+      ],
+      "Title": "Bruce Almighty",
+      "imdbID": "tt0315327"
+    },
+    {
+      "Genre_id": 2,
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWU0MGYwZWQtMzcwYS00NWVhLTlkZTAtYWVjOTYwZTBhZTBiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.6/10"
+        }
+      ],
+      "Title": "Bad Boys for Life",
+      "imdbID": "tt1502397"
+    },
+    {
+      "Genre_id": 2,
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjkxOTk1MzY4MF5BMl5BanBnXkFtZTgwODQzOTU5ODE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.1/10"
+        }
+      ],
+      "Title": "Sausage Party",
+      "imdbID": "tt1700841"
+    },
+    {
+      "Genre_id": 2,
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDQ4NjkxNzgzN15BMl5BanBnXkFtZTgwMjAzODQ4OTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        }
+      ],
+      "Title": "A Dog's Purpose",
+      "imdbID": "tt1753383"
+    },
+    {
+      "Genre_id": 3,
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTYyMzEzNjI4M15BMl5BanBnXkFtZTgwODgxOTgyNzM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        }
+      ],
+      "Title": "Apollo 11",
+      "imdbID": "tt8760684"
+    },
+    {
+      "Genre_id": 3,
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmJkOWRhZWUtZmNlZC00NWYwLThiMmEtZjZkMTI4N2Y1NDMxXkEyXkFqcGdeQXVyMTE5NTc0NzY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        }
+      ],
+      "Title": "Kiss the Ground",
+      "imdbID": "tt8618654"
+    },
+    {
+      "Genre_id": 3,
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzg4ZjMzOWEtZjBhZi00MzgxLWEzNmItYjVlYjY0MGQ5ZmM5XkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        }
+      ],
+      "Title": "The Game Changers",
+      "imdbID": "tt7455754"
+    },
+    {
+      "Genre_id": 3,
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWFkMDY1MjItZmNkOS00MDg2LWFlMjMtZWU3YmM0MmY3MWM3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        }
+      ],
+      "Title": "American Factory",
+      "imdbID": "tt9351980"
+    },
+    {
+      "Genre_id": 4,
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWU2ZDIxY2UtNzM5NS00MWUwLTkxN2QtMmI3NDZkNTA2OTYxXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "10/10"
+        }
+      ],
+      "Title": "The Blue Lagoon",
+      "imdbID": "tt0080453"
+    },
+    {
+      "Genre_id": 4,
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        }
+      ],
+      "Title": "Gone Girl",
+      "imdbID": "tt2267998"
+    },
+    {
+      "Genre_id": 4,
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDE5OWMzM2QtOTU2ZS00NzAyLWI2MDEtOTRlYjIxZGM0OWRjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        }
+      ],
+      "Title": "The Revenant",
+      "imdbID": "tt1663202"
+    },
+    {
+      "Genre_id": 4,
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGUwMjk3YzktNDI0Yy00MzFiLWFjNmEtYTA2ODVjMzNhODhjXkEyXkFqcGdeQXVyOTQ1MDI4MzY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.3/10"
+        }
+      ],
+      "Title": "After",
+      "imdbID": "tt4126476"
+    },
+    {
+      "Genre_id": 5,
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzk1MGYyYmQtZjA3NC00ZWZiLTg1NWMtMjEwNTVlODM5OWVkXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "4.4/10"
+        }
+      ],
+      "Title": "Mary",
+      "imdbID": "tt5834854"
+    },
+    {
+      "Genre_id": 5,
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIxODg1Nzc3NF5BMl5BanBnXkFtZTcwMjM0MjEzMw@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.9/10"
+        }
+      ],
+      "Title": "The Grudge",
+      "imdbID": "tt0391198"
+    },
+    {
+      "Genre_id": 5,
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTIyYWJjZDctODY4OC00NWExLWE2NTktZmY0MWY2YWZjMWIxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.4/10"
+        }
+      ],
+      "Title": "Gretel & Hansel",
+      "imdbID": "tt9086228"
+    },
+    {
+      "Genre_id": 5,
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjM3NzQ5NDcxOF5BMl5BanBnXkFtZTgwNzM4MTQ5NTM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.3/10"
+        }
+      ],
+      "Title": "The Nun",
+      "imdbID": "tt5814060"
+    },
+    {
+      "Genre_id": 6,
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmRiYTM3ZGMtNzA1Yy00OWQ1LWE2ZGEtZTRiYzYyZDZjYWYwXkEyXkFqcGdeQXVyMjMwODE4ODI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.7/10"
+        }
+      ],
+      "Title": "100% Wolf",
+      "imdbID": "tt8774798"
+    },
+    {
+      "Genre_id": 6,
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjJjMmRkNjYtNmJhNi00ZDM1LWEzMjMtOWZjNjgxODc1YmFlXkEyXkFqcGdeQXVyOTQyNTIzNjM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "4.1/10"
+        }
+      ],
+      "Title": "Woody Woodpecker",
+      "imdbID": "tt2114504"
+    },
+    {
+      "Genre_id": 6,
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTIwMDI0NjQ4OF5BMl5BanBnXkFtZTgwNjU0MzAyNDM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        }
+      ],
+      "Title": "Ferdinand",
+      "imdbID": "tt3411444"
+    },
+    {
+      "Genre_id": 6,
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmU2YTEwODktZDFlNC00YWJmLTk0NjEtMzZjMjM4Y2E3NjdiXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "3.8/10"
+        }
+      ],
+      "Title": "Pets United",
+      "imdbID": "tt11276598"
+    }
+  ]
+}
