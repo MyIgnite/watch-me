@@ -14,6 +14,7 @@ https://github1s.com/MyIgnite/watch-me
 Local execution
 
 - Clone project local
+- `yarn`
 - `yarn dev`
 
 About the Challenge </br>
