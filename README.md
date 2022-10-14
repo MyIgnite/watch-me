@@ -5,7 +5,7 @@ https://watch-me-ignite-github-renan-tsx.netlify.app
 
 Back-and in Github
 
-https://my-json-server.typicode.com/MyIgnite/watch-me-backend
+https://my-json-server.typicode.com/MyIgnite/watch-me
 
 Open VSCode Online
 
